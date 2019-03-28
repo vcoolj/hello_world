@@ -1,0 +1,6 @@
+Print (" Add Numbers")
+Print ("Enter first number: ")
+a = int(input())
+Print ("Enter second number: ")
+b = int(input())
+Print (a + b)
